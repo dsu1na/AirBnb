@@ -26,6 +26,7 @@ Stackoverflow, Pandas documentation
 This analysis tries to answer the following three questions.
 
 1. Which neighbourhood in seattle has the highest number of listings?
+
 The top 5 neighbourhoods with highest number of listings are 
 - Broadway
 - Belltown
@@ -35,6 +36,7 @@ The top 5 neighbourhoods with highest number of listings are
 
 
 2. Which are the highest rated neighbourhoods (min 50 reviews in total)?
+
 Top 5 highest rated neighbourhoods
 - Riverview
 - Southeast Magnolia
@@ -44,4 +46,5 @@ Top 5 highest rated neighbourhoods
 
 
 3. Which month of the year has a higher price of booking?
+
 We can see the price peaks in the month of June, July and August
