@@ -23,6 +23,10 @@ Stackoverflow, Pandas documentation
 
 
 ### Summary of Results
+
+link to the blog post : 
+https://medium.com/@sxsubra.das/3-insights-about-airbnb-seattle-dataset-482a7afdd2cc
+
 This analysis tries to answer the following three questions.
 
 1. Which neighbourhood in seattle has the highest number of listings?
